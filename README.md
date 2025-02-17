@@ -3,7 +3,7 @@
 ## Student Information
 
 - **Name**: Manikanth Reddy Devarapalli
-- **Student ID**: 7007655232
+- **Student ID**: 700765523
 - **CRN**: 23847
 - **Course**: CS5720 Neural Networks & Deep Learning
 - **Semester**: Spring 2025
